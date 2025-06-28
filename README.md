@@ -79,15 +79,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - PyTorch team for the deep learning framework
 - Hugging Face for the transformers library
 
-## 📧 Contact
-
-For questions and support, please open an issue in the GitHub repository or reach out to the maintainers.
-
----
-⭐ If you find this project useful, please consider giving it a star!
 
     
 
 
-https://github.com/user-attachments/assets/3750ada3-811e-4e7a-a572-c9a57099b847
+## 👩‍💻 About Me
 
+Hi, I’m **Jhansi Challa**, a passionate developer who enjoys building intelligent interfaces and AI-powered applications. I enjoy working with modern front-end stacks, experimenting with AI-driven tools, and solving real-world problems through code. 
+
+Let's connect on [LinkedIn](linkedin.com/in/challajhansi) or reach out via email at: **jhansichalla@26gmail.com**
+
+---
+
+© 2025 Jhansi Challa
