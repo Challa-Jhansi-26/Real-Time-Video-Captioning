@@ -69,9 +69,6 @@ The application can be customized through the following parameters in `config.py
 - Display preferences
 
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -90,5 +87,10 @@ Hi, I’m **Jhansi Challa**, a passionate developer who enjoys building intellig
 Let's connect on [LinkedIn](linkedin.com/in/challajhansi) or reach out via email at: **jhansichalla@26gmail.com**
 
 ---
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 © 2025 Jhansi Challa
